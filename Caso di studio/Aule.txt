@@ -1,0 +1,10 @@
+a1 Aula1 12
+a2 Aula2 15
+a3 Aula3 21
+a4 Aula4 32
+a5 Aula5 34
+a6 Aula6 21
+a7 Aula7 11
+a8 Aula8 44
+a9 Aula9 33
+a10 Aula10 22
